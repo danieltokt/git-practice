@@ -1,3 +1,6 @@
+
 Name: Daniel
 Course: IEI
 Favorite programming language: Python
+I am learning Git and GitHub.
+
